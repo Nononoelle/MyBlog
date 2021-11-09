@@ -26,7 +26,7 @@ module.exports = {
       user : 'root',
       host : '172.16.133.129',
       ref  : 'origin/master',
-      repo : 'git@github.com:Nononoelle/myBlog.git',
+      repo : 'git@github.com:Nononoelle/MyBlog.git',
       path : '/usr/local/myProject',
       ssh_options: "StrictHostKeyChecking=no",
       'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production',
