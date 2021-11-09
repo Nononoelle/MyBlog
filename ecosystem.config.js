@@ -7,12 +7,12 @@ module.exports = {
     watch: true,
     ignore_watch:[
       "node_modules",
-      "logs"
+      // "logs"
     ],
     max_memory_restart: '1G',
-    "error_file": "./logs/app-err.log",
-    "out_file": "./logs/app-out.log",
-    "log_date_format": "YYYY-MM-DD HH:mm:ss",
+    // "error_file": "./logs/app-err.log",
+    // "out_file": "./logs/app-out.log",
+    // "log_date_format": "YYYY-MM-DD HH:mm:ss",
     env:{
       NODE_ENV: 'development'
     },
@@ -26,7 +26,7 @@ module.exports = {
       user : 'root',
       host : '172.16.133.129',
       ref  : 'origin/master',
-      repo : 'git@github.com:Nononoelle/MyBlog.git',
+      repo : 'git@github.com:Nononoelle/myBlog.git',
       path : '/usr/local/myProject',
       ssh_options: "StrictHostKeyChecking=no",
       'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production',
