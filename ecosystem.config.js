@@ -25,8 +25,8 @@ module.exports = {
     production : {
       user : 'root',
       host : '172.16.133.129',
-      ref  : 'origin/main',
-      repo : 'git@github.com:Nononoelle/coursera-test.git',
+      ref  : 'origin/master',
+      repo : 'git@github.com:Nononoelle/myBlog.git',
       path : '/usr/local/myProject',
       ssh_options: "StrictHostKeyChecking=no",
       'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production',
