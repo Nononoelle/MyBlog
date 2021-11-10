@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'app',
+    name: 'blog',
     script: './bin/www',
     instances: 1,
     autorestart: true,
