@@ -1,0 +1,480 @@
+2021-11-10 15:11:31: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:31: [0mGET /api/getUserList [33m401 [0m20.477 ms - 43[0m
+2021-11-10 15:11:31: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:31: [0mGET /api/getUserList [33m401 [0m2.751 ms - 43[0m
+2021-11-10 15:11:32: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:32: [0mGET /api/getUserList [33m401 [0m1.308 ms - 43[0m
+2021-11-10 15:11:32: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:32: [0mGET /api/getUserList [33m401 [0m1.511 ms - 43[0m
+2021-11-10 15:11:32: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:32: [0mGET /api/getUserList [33m401 [0m2.666 ms - 43[0m
+2021-11-10 15:11:32: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:32: [0mGET /api/getUserList [33m401 [0m1.255 ms - 43[0m
+2021-11-10 15:11:33: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:33: [0mGET /api/getUserList [33m401 [0m4.649 ms - 43[0m
+2021-11-10 15:11:33: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:33: [0mGET /api/getUserList [33m401 [0m1.080 ms - 43[0m
+2021-11-10 15:11:33: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:33: [0mGET /api/getUserList [33m401 [0m0.976 ms - 43[0m
+2021-11-10 15:11:34: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:34: [0mGET /api/getUserList [33m401 [0m1.312 ms - 43[0m
+2021-11-10 15:11:34: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:34: [0mGET /api/getUserList [33m401 [0m2.618 ms - 43[0m
+2021-11-10 15:11:34: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:34: [0mGET /api/getUserList [33m401 [0m1.640 ms - 43[0m
+2021-11-10 15:11:35: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:35: [0mGET /api/getUserList [33m401 [0m1.056 ms - 43[0m
+2021-11-10 15:11:35: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:35: [0mGET /api/getUserList [33m401 [0m4.004 ms - 43[0m
+2021-11-10 15:11:35: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:35: [0mGET /api/getUserList [33m401 [0m4.948 ms - 43[0m
+2021-11-10 15:11:36: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:36: [0mGET /api/getUserList [33m401 [0m1.005 ms - 43[0m
+2021-11-10 15:11:36: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:36: [0mGET /api/getUserList [33m401 [0m1.651 ms - 43[0m
+2021-11-10 15:11:36: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:36: [0mGET /api/getUserList [33m401 [0m1.006 ms - 43[0m
+2021-11-10 15:11:37: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:37: [0mGET /api/getUserList [33m401 [0m1.007 ms - 43[0m
+2021-11-10 15:11:37: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:37: [0mGET /api/getUserList [33m401 [0m1.192 ms - 43[0m
+2021-11-10 15:11:37: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:37: [0mGET /api/getUserList [33m401 [0m1.687 ms - 43[0m
+2021-11-10 15:11:38: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:38: [0mGET /api/getUserList [33m401 [0m0.985 ms - 43[0m
+2021-11-10 15:11:38: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:38: [0mGET /api/getUserList [33m401 [0m1.537 ms - 43[0m
+2021-11-10 15:11:38: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:38: [0mGET /api/getUserList [33m401 [0m1.782 ms - 43[0m
+2021-11-10 15:11:38: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:38: [0mGET /api/getUserList [33m401 [0m1.017 ms - 43[0m
+2021-11-10 15:11:39: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:39: [0mGET /api/getUserList [33m401 [0m1.041 ms - 43[0m
+2021-11-10 15:11:39: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:39: [0mGET /api/getUserList [33m401 [0m2.679 ms - 43[0m
+2021-11-10 15:11:40: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:40: [0mGET /api/getUserList [33m401 [0m1.808 ms - 43[0m
+2021-11-10 15:11:40: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:11:40: [0mGET /api/getUserList [33m401 [0m2.704 ms - 43[0m
+2021-11-10 15:14:27: UnauthorizedError: No authorization token was found
+    at middleware (/Users/noellewu/Documents/Node/server/node_modules/express-jwt/lib/index.js:79:21)
+    at result (/Users/noellewu/Documents/Node/server/node_modules/express-unless/index.js:49:5)
+    at Layer.handle [as handle_request] (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:317:13)
+    at /Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/noellewu/Documents/Node/server/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+    at SendStream.error (/Users/noellewu/Documents/Node/server/node_modules/send/index.js:270:17) {
+  code: 'credentials_required',
+  status: 401,
+  inner: { message: 'No authorization token was found' }
+}
+2021-11-10 15:14:27: [0mGET /api/getUserList [33m401 [0m1.400 ms - 43[0m
