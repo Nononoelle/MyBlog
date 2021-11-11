@@ -24,7 +24,7 @@ module.exports = {
   deploy : {
     production : {
       user : 'root',
-      host : '172.16.133.129',
+      host : '172.16.133.131',
       ref  : 'origin/master',
       repo : 'git@github.com:Nononoelle/myBlog.git',
       path : '/usr/local/myProject',

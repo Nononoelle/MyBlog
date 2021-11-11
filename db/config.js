@@ -12,7 +12,7 @@ let dbOption
 // db on server: xd_blog
 dbOption = {
     connectionsLimit: 10,
-    host: '172.16.133.129',
+    host: '172.16.133.131',
     user: 'root',
     password: 'Qq120128',
     port: '3306',
